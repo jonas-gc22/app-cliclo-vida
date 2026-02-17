@@ -12,6 +12,7 @@ La aplicación cuenta con **2 Activities y 2 archivos XML**, mostrando en consol
 - Adonis Rodríguez 1-17-4399
 - Euris Joel Acosta 1-19-3584
 - Gabriel Hernández Galván 2-21-3988
+- Erik Miguel Gil Cruz 1-22-5249
 
 **Universidad:** UTESA  
 **Asignatura:** Programación de Dispositivos Móviles  
